@@ -10,9 +10,9 @@
 
 def checkEven(num):
   """
-    Description: Function to check even or odd
+    Description: Function to check if the number is even or odd
     Parameter:
-        x : Number to be checked wether num is Even or odd
+        num : it takes input parameter for this function,it accepts dynamic integer value from user
     """
   
 
