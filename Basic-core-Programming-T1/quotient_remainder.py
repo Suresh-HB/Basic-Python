@@ -3,7 +3,7 @@
 @Date: 2024-07-10 
 @Last Modified by: Suresh
 @Last Modified: 2024-07-10 
-@Title :
+@Title : Finding quotient and remainder for user input
 '''
 
 
