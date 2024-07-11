@@ -1,3 +1,11 @@
+'''
+@Author: Suresh
+@Date: 2024-07-10 
+@Last Modified by: Suresh
+@Last Modified: 2024-07-10 
+@Title : Finding the prime factors of number
+'''
+
 class PrimeFactorizer:
     def __init__(self):
         pass
@@ -17,7 +25,8 @@ class PrimeFactorizer:
         
         return factors
 
-if __name__ == "__main__":
+
+def main():
     try:
         pf = PrimeFactorizer()
         N = int(input("Enter a number to find its prime factors: "))
@@ -28,3 +37,7 @@ if __name__ == "__main__":
     
     except ValueError as ve:
         print(f"Error: {ve}")
+
+
+if __name__ == "__main__":
+    main()
